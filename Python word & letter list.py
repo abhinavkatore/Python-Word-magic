@@ -22,6 +22,17 @@ print(x[:])
 print(x[1:]) 
 print(x[1:7])
 
+
+
+# 
+words = ["Python", "fun"]
+index = 1
+words.insert(index, "is")
+print(words)
+
+let=["Python", "fun"]
+let.append("is")
+print(let)
 x='python_is_coding_language'
 y=(x[0:])
 a=input()
